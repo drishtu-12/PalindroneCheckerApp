@@ -83,6 +83,6 @@ public class UseCase4PalindromeCheckerApp {
         // Display result
         System.out.println("Input : " + input);
         System.out.println("Is Palindrome? : " + isPalindrome);
+        System.out.println("DONE");
     }
 }
-        }
